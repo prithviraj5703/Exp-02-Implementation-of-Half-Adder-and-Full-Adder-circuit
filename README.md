@@ -39,11 +39,11 @@ If the output is 1, then the led glows.
 
 ###Program:
 
-/*
+```python
 Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
-Developed by: RAGUL R
-RegisterNumber:212222100040
-*/
+Developed by: prithviraj
+RegisterNumber:212222100038
+
 
 HALF ADDER
 
@@ -62,6 +62,7 @@ output sum,carry;
 assign sum = ((a^b)^c);
 assign carry = ((a&b)|(b&c)|(c&a));
 endmodule 
+```
  
 Logic symbol & Truthtable
 RTL realization
