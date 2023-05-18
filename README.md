@@ -70,26 +70,23 @@ RTL realization
 ### Output:
 
 ### HALF ADDER
+![image](https://github.com/prithviraj5703/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/121418418/29b42d78-979a-4cb3-b250-2c84e8fcc465)
 
-### TRUTH TABLE 
-![image](https://user-images.githubusercontent.com/121609342/231674977-5adf488c-1388-4753-9512-7cfc868a3c59.png)
+##FULL ADDER
+![image](https://github.com/prithviraj5703/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/121418418/4bcc71b6-7444-4485-83ff-983a23c08fb8)
 
-### RTL
-![image](https://user-images.githubusercontent.com/121609342/231675013-160477f4-cb65-4eef-aa91-95bfd6a68db4.png)
+##TIMING DIAGRAM
+##HALF ADDER
+![image](https://github.com/prithviraj5703/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/121418418/dc884898-aaf6-43dc-92d9-9d21cf201f87)
+##FULL ADDER
+![image](https://github.com/prithviraj5703/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/121418418/a5bf1f28-6d5a-41e0-94ff-62cffb105301)
+##TRUTH TABLE
+##HALF ADDER
+![image](https://github.com/prithviraj5703/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/121418418/b106f1d9-10d7-4060-8a5f-be1731ed5110)
+##FULL ADDER
+![image](https://github.com/prithviraj5703/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/121418418/bc6c5104-e530-4743-87b5-3d0550772972)
 
-### TIMING DIAGRAM
-![image](https://user-images.githubusercontent.com/121609342/231675060-300f1038-14df-428b-bb5b-17150c820851.png)
 
-### FULL ADDER
-
-### TRUTH TABLE 
-![image](https://user-images.githubusercontent.com/121609342/231675144-d70b786b-690e-4ffd-9ad5-7a54097c5cc5.png)
-
-### RTL
-![image](https://user-images.githubusercontent.com/121609342/231675204-a0e69240-1e04-443e-80f0-04666b2df148.png)
-
-### TIMING DIAGRAM
-![image](https://user-images.githubusercontent.com/121609342/231675257-9c1fb508-68a8-4ef7-905e-aeb6fa6881f9.png)
 
 
 
